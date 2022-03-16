@@ -13,6 +13,7 @@
     <button
       type="button"
       class="ml-2 mr-2 btn btn-outline-dark border-0 font-weight-bold"
+      style="color: #adefd1ff"
       *ngFor="let item of menuItems"
       [routerLink]="(isHome$ | async) ? item.homePath : item.pagePath"
       [fragment]="(isHome$ | async) ? item.fragment : ''"

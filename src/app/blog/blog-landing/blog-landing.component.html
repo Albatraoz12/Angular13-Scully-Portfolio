@@ -17,7 +17,7 @@
       <div class="card-img-top bg-dark">
         <i class="far fa-newspaper fa-4x m-5 text-white"></i>
       </div>
-      <div class="card-body d-flex flex-column">
+      <div class="card-body d-flex flex-column" style="background: #00203fff">
         <h5 class="card-title post-title" [title]="page.title">
           {{ page.title }}
         </h5>
@@ -26,7 +26,8 @@
         </p>
         <a
           [routerLink]="page.route"
-          class="btn btn-outline-dark align-self-center"
+          class="btn btn-outline-light align-self-center"
+          style="color: #adefd1ff"
         >
           <i class="fa-lg mr-1 far fa-eye"></i>
           Read
