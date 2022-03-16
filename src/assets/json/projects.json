@@ -1,46 +1,46 @@
 [
   {
-    "name": "Soduko",
+    "name": "Hangman",
     "stack": {
-      "name": "Angular",
-      "iconClasses": "fab fa-angular"
+      "name": "Javascript",
+      "iconClasses": "fab fa-js"
     },
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "sourceUrl": "https://github.com",
+    "sourceUrl": "https://github.com/Albatraoz12/u03-js-hangman-Albatraoz12",
     "previewUrl": "https://github.com",
     "featured": true
   },
   {
-    "name": "E-commerce Store",
+    "name": "Todo-List",
     "stack": {
-      "name": "React",
-      "iconClasses": "fab fa-react"
+      "name": "PHP",
+      "iconClasses": "fab fa-php"
     },
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "sourceUrl": "https://github.com",
-    "previewUrl": "https://github.com",
+    "sourceUrl": "https://github.com/Albatraoz12/u04-todo-app-Albatraoz12",
+    "previewUrl": "https://github.com/Albatraoz12/u04-todo-app-Albatraoz12",
     "featured": true
   },
   {
-    "name": "Algorithm Visualization App",
+    "name": "LMDB",
     "stack": {
-      "name": "Angular",
-      "iconClasses": "fab fa-angular"
+      "name": "Laravel",
+      "iconClasses": "fab fa-laravel"
     },
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "sourceUrl": "https://github.com",
-    "previewUrl": "https://github.com",
+    "sourceUrl": "https://github.com/Albatraoz12/u05-imdb-clone",
+    "previewUrl": "http://lmdbu05.herokuapp.com/",
     "featured": true
   },
   {
-    "name": "Time Tracking CLI App",
+    "name": "Redesign",
     "stack": {
-      "name": "Node.js",
-      "iconClasses": "fab fa-node-js"
+      "name": "HTML/CSS",
+      "iconClasses": "fab fa-html5"
     },
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "sourceUrl": "https://github.com",
-    "previewUrl": "https://github.com",
+    "sourceUrl": "https://github.com/chas-academy/u02-redesign-groupEight",
+    "previewUrl": "https://github.com/chas-academy/u02-redesign-groupEight",
     "featured": true
   }
 ]

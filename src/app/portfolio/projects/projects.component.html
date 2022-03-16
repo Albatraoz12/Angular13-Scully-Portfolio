@@ -36,11 +36,12 @@
         <p class="card-text text-left">
           {{ project.description }}
         </p>
-        <div class="d-flex flex-row justify-content-start">
+        <div class="d-flex flex-row justify-content-center gap-2">
           <a
             [href]="project.previewUrl"
             *ngIf="project.previewUrl"
             class="btn btn-dark mr-2"
+            style="background: #00203fff; color: #adefd1ff; border-color: white"
           >
             <i class="fa-lg mr-1 far fa-eye"></i>
             Preview
@@ -49,6 +50,7 @@
             [href]="project.sourceUrl"
             *ngIf="project.sourceUrl"
             class="btn btn-dark"
+            style="background: #00203fff; color: #adefd1ff; border-color: white"
           >
             <i class="fa-lg mr-1 fab fa-github-alt"></i>
             Source
